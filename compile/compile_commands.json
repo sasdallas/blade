@@ -1,0 +1,8 @@
+[
+  {
+    "directory": "/workspace/blade/compile",
+    "command": "cc -Iout@blade@exe -I. -I.. -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -g -MD -MQ 'out@blade@exe/src_main.c.o' -MF 'out@blade@exe/src_main.c.o.d' -o 'out@blade@exe/src_main.c.o' -c ../src/main.c",
+    "file": "../src/main.c",
+    "output": "out@blade@exe/src_main.c.o"
+  }
+]
