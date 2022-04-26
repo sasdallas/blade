@@ -4,8 +4,11 @@
 ### Blade is not ready for release yet.
 
 # What is blade?
-Blade is a programming language designed for small and big programs. 
+Blade is a programming language designed for small and big programs, designed to be flexible.\
+I will have more infomation once released.
 
 # How should I compile Blade? 
+Currently, I chose the Meson build system.\
+You can compile by running `meson build`, `cd build`, and `ninja`.
 
-We are unsure.
+
